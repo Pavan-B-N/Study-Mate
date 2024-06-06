@@ -1,0 +1,28 @@
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: D:\React Native Projects\StudyMateAI\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, 1 May, 2052
+----------
+Variant: release
+Config: release
+Store: D:\React Native Projects\StudyMateAI\android\app\my-upload-key.keystore
+Alias: my-key-alias
+MD5: CD:47:AC:5F:41:D0:03:4B:00:11:16:59:CC:69:70:94
+SHA1: EC:CD:72:9E:65:DC:FE:55:B1:DB:5F:F8:CB:A5:CB:D2:8B:16:5C:4D
+SHA-256: 32:AF:F1:1A:3F:0F:F3:63:EC:04:DB:FD:1E:03:3A:CC:1B:50:6C:DC:4C:90:27:C4:04:C1:20:46:51:68:9A:19
+Valid until: Sunday, 28 May, 2051
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: D:\React Native Projects\StudyMateAI\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, 1 May, 2052
+----------

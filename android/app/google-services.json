@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726353468433",
+    "project_id": "studymateai-9722d",
+    "storage_bucket": "studymateai-9722d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726353468433:android:2a596458f5a09e7ae625b0",
+        "android_client_info": {
+          "package_name": "com.studymateai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726353468433-a9dgpkjc0ibo9v40e2dqnqid00dpgf3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studymateai",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "726353468433-mdu15vp4tkdqnhlhimo5hvojnk7dd63e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmXw8XPURCfoJHXevBbWY66-OiMdyf8a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726353468433-mdu15vp4tkdqnhlhimo5hvojnk7dd63e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
